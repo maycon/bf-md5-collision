@@ -8,7 +8,7 @@ Rankings based on **total file size** (file1 + file2). Smaller is better!
 
 | Rank | Name | Date | File 1 | File 2 | Total | Link |
 |------|------|------|--------|--------|-------|------|
-| - | *Awaiting first submission* | - | - | - | - | - |
+| 1 | <a name="OtavioArj" href="https://github.com/otavioarj" target="_blank">@OtavioArj</a> | 2025-12-12 | 971 bytes | 971 bytes | 1942 | [Here](#OtavioArj) |
 
 *Be the first to submit your solution!*
 
@@ -16,7 +16,58 @@ Rankings based on **total file size** (file1 + file2). Smaller is better!
 
 ## 📝 Submissions
 
-*No submissions yet. Be the first!*
+### <a name="OtavioArj" href="https://github.com/otavioarj" target="_blank">@OtavioArj</a>
+**Date:** 2025-12-12
+**Total Size:** 1942 bytes (971 + 971) 
+**MD5 Hash:** `c7e016dc108e`
+
+<details>
+<summary>📦 View Files (Base64)</summary>
+
+**rock.bf (971 bytes):**
+```
+WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAALWH6ctt43bDG1XqKttL6Gv/AdsVYf+ZtiauN6qLCpndWNm65+LRL8ZvJPg04Ms5L7A9b3yrt3
+X4VTfi60HvyB+skB4ztKh6B7xF4rwmRxpj0+bxnOo+eSt2e+vHT1HjQaZavW10jXt3m6FrGXKZSN+OL
+z3RT14UZlnr2K004fufPis8Wz4tPFstXT4+KysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysr
+KysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKy4rKysrKysrKys
+rKysrKysrKysrKysrKysrKysrKy4tLS0tLS0tLS0tLS0uKysrKysrKysuLS0tLS0tLS0tLS0tLS0tLS
+0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tL
+isrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysuLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS4rKysrKysrKysrKysrKysrKysrKysrKys
+rKysrKysrKysrKysrKysrKysrKysrKysrKy4rKysrKysrKysrKysrKysrKysrKysrKysrKysrKy4tLS
+0uLjw8XT5bLT4rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK
+ysrKysrKysrKysrKysrKysrKysrKysuKysrKysrKysrKysrKysrKysrKysrKysrKy4rKy4rKysrKysr
+Ky4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0
+tLS0tLS0tLS0tLS0tLS0tLS0uKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKy
+srKysrKy4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLisrKysrK
+ysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrLisrKysrKysrKysrKysr
+KysrKysrKysrKysrKysrLi0tLS4uPF0=
+```
+
+**hack.bf (971 bytes):**
+```
+WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAALWH6ctt43bDG1XqKttL6Gv/AduVYf+ZtiauN6qLCpndWNm65+LRL8ZvJPg04Es5L7A9b3yrt3
+X4VTfia0HvyB+skB4ztKh6B7xF4rwmRxpj0+bxHOo+eSt2e+vHT1HjQaZavW10jXt3m6FrGXIZSd+OL
+z3RT14UZlnr2C004fufPis8Wz4tPFstXT4+KysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysr
+KysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKy4rKysrKysrKys
+rKysrKysrKysrKysrKysrKysrKy4tLS0tLS0tLS0tLS0uKysrKysrKysuLS0tLS0tLS0tLS0tLS0tLS
+0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tL
+isrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysuLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS4rKysrKysrKysrKysrKysrKysrKysrKys
+rKysrKysrKysrKysrKysrKysrKysrKysrKy4rKysrKysrKysrKysrKysrKysrKysrKysrKysrKy4tLS
+0uLjw8XT5bLT4rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK
+ysrKysrKysrKysrKysrKysrKysrKysuKysrKysrKysrKysrKysrKysrKysrKysrKy4rKy4rKysrKysr
+Ky4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0
+tLS0tLS0tLS0tLS0tLS0tLS0uKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKy
+srKysrKy4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLisrKysrK
+ysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrLisrKysrKysrKysrKysr
+KysrKysrKysrKysrKysrLi0tLS4uPF0=
+```
+</details>
+
+✅ **Verified by:** @maycon
 
 ---
 
